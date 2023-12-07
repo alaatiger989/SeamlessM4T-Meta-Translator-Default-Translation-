@@ -1,0 +1,1 @@
+https://huggingface.co/docs/transformers/main/model_doc/seamless_m4t_v2
